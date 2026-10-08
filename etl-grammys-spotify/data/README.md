@@ -1,5 +1,9 @@
 # Datos de entrada
 
+Enlaces de descarga: 
+https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+https://www.kaggle.com/datasets/unanimad/grammy-awards
+
 Los CSV no se suben al repositorio. Descárgalos y colócalos en `/content/` de Colab, o súbelos desde el notebook:
 
 - `the_grammy_awards.csv`: nominaciones a los Grammy (4.810 filas).
