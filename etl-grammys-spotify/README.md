@@ -19,6 +19,7 @@ extrccn_spotify ─────────────────────�
                                                               ▼                           ▼
                                                         carga_sqlite                exportar_csv
 ```
+En la carpeta docs encontrará el diagrama arrojado por Airflow
 
 | Tarea | Qué hace |
 |---|---|
