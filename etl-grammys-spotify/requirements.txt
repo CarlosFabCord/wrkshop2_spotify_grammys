@@ -1,0 +1,7 @@
+# Instalar con las restricciones oficiales de Airflow (ver README):
+# pip install -r requirements.txt --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.10.5/constraints-3.12.txt"
+apache-airflow==2.10.5
+pandas
+numpy
+pandera
+typing-extensions>=4.15

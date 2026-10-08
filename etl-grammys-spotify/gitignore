@@ -1,0 +1,22 @@
+# Datos (pesados o regenerables)
+data/*.csv
+*.sqlite
+*.db
+*.pkl
+
+# Airflow local
+airflow/
+airflow.db
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
